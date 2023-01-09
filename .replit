@@ -1,4 +1,4 @@
-run = "node . -- db 'mongodb+srv://Saipul:Saipul123@cluster0.7jwbv6c.mongodb.net/?retryWrites=true&w=majority'"
+run = "node . -- db 'mongodb+srv://bions:BionsBot190603@cluster0.z76dv33.mongodb.net/test'"
 
 [nix]
 channel = "stable-21_11"
